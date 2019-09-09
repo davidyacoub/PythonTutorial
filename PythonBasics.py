@@ -10,3 +10,4 @@ print("1st", l1[1][1])
 
 for x in range(0, 10):
     print(x)
+i1 =1 
